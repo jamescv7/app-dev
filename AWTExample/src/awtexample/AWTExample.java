@@ -63,12 +63,11 @@ public class AWTExample extends Frame{
             
             outputFrame.setSize(230, 185);
             outputFrame.setLocation(430, 240);
-            outputFrame.setTitle("OUTPUT");
+            outputFrame.setTitle("OUTPUT Test from Github");
             outputFrame.setResizable(false);
             outputFrame.setVisible(true);
             
             outputArea.setEditable(false);
-            outputArea.setBackground(Color.LIGHT_GRAY);
             outputArea.setFont(setFont);
             
             outputFrame.add(outputPanel);
@@ -79,6 +78,8 @@ public class AWTExample extends Frame{
             
             btnFindIp.setEnabled(false);
             btnOkay.addActionListener(new btnOkay());
+
+            System.out.println("Hello World");
             
         }
     }
