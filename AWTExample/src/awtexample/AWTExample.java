@@ -75,6 +75,15 @@ public class AWTExample extends Frame{
             outputPanel.add(outputArea);
             outputPanel.add(outputIp);
             outputPanel.add(btnOkay);
+
+
+Test 1234566
+sdfgsdgdf
+gdf
+g
+fdg
+fdg
+
             
             btnFindIp.setEnabled(false);
             btnOkay.addActionListener(new btnOkay());
