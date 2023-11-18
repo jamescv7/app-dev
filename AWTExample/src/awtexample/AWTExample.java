@@ -63,7 +63,7 @@ public class AWTExample extends Frame{
             
             outputFrame.setSize(230, 185);
             outputFrame.setLocation(430, 240);
-            outputFrame.setTitle("OUTPUT Test from Github");
+            outputFrame.setTitle("OUTPUT 21234");
             outputFrame.setResizable(false);
             outputFrame.setVisible(true);
             
@@ -76,15 +76,6 @@ public class AWTExample extends Frame{
             outputPanel.add(outputIp);
             outputPanel.add(btnOkay);
 
-
-Test 1234566
-sdfgsdgdf
-gdf
-g
-fdg
-fdg
-
-            
             btnFindIp.setEnabled(false);
             btnOkay.addActionListener(new btnOkay());
 
