@@ -17,3 +17,7 @@ My first repository
 | Content Creator videos | 10% |
 
 Emoji Test: 😄 🏀 🛌
+
+![wallpaper](https://images.pexels.com/photos/3308588/pexels-photo-3308588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+![alt text](https://images.pexels.com/photos/3308588/pexels-photo-3308588.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
